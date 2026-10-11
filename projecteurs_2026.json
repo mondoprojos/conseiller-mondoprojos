@@ -316,7 +316,7 @@
     "throw_min": 1.2,
     "throw_max": 1.8,
     "prix_eur": 3999,
-    "photo": null,
+    "photo": "https://www.mondoprojos.fr/wp-content/uploads/2025/12/XGIMI-TITAN-1024x576.jpg",
     "test_url": "https://www.mondoprojos.fr/2025/12/20/test-xgimi-titan/",
     "mesure_source_sdr": {
       "valeur": 4530,
@@ -341,7 +341,7 @@
     "throw_min": 1.2,
     "throw_max": 1.2,
     "prix_eur": 429,
-    "photo": null,
+    "photo": "https://www.mondoprojos.fr/wp-content/uploads/2025/12/IMG_2273-768x1024.jpeg",
     "test_url": "https://www.mondoprojos.fr/2025/12/14/test-philips-neopix-950-smart/",
     "mesure_source_sdr": {
       "valeur": 1047,
@@ -363,7 +363,7 @@
     "throw_min": 1.2,
     "throw_max": 1.2,
     "prix_eur": 1259,
-    "photo": null,
+    "photo": "https://www.mondoprojos.fr/wp-content/uploads/2025/10/IMG_1817-576x1024.jpeg",
     "test_url": "https://www.mondoprojos.fr/2025/11/06/test-epson-ef-ls72/",
     "mesure_source_sdr": {
       "valeur": 98.9,
@@ -388,7 +388,7 @@
     "throw_min": 1.2,
     "throw_max": 1.5,
     "prix_eur": 1690,
-    "photo": null,
+    "photo": "https://www.mondoprojos.fr/wp-content/uploads/2025/10/IMG_1713-768x1024.jpeg",
     "test_url": "https://www.mondoprojos.fr/2025/10/26/test-xgimi-horizon-20-pro/",
     "mesure_source_sdr": {
       "valeur": 303.78,
@@ -413,8 +413,8 @@
     "throw_min": 0.16,
     "throw_max": 0.16,
     "prix_eur": 1999,
-    "photo": null,
-    "test_url": "https://www.mondoprojos.fr/2025/10/20/test-jmgo-o2s-ultra/",
+    "photo": "https://www.mondoprojos.fr/wp-content/uploads/2025/10/IMG_1532-1024x576.jpeg",
+    "test_url": "https://www.mondoprojos.fr/2025/10/20/test-jmgo-02s-ultra/",
     "mesure_source_sdr": {
       "valeur": 173,
       "unite": "cd/m²"
@@ -438,8 +438,8 @@
     "throw_min": 1.2,
     "throw_max": 1.5,
     "prix_eur": 2249,
-    "photo": null,
-    "test_url": "https://www.mondoprojos.fr/2025/10/17/test-xgimi-horizon-20-max/",
+    "photo": "https://www.mondoprojos.fr/wp-content/uploads/2025/10/IMG_1341-1-768x1024.jpeg",
+    "test_url": "https://www.mondoprojos.fr/2025/10/16/test-xgimi-horizon-20-max/",
     "mesure_source_sdr": {
       "valeur": 391.4,
       "unite": "cd/m²"
@@ -463,7 +463,7 @@
     "throw_min": 1,
     "throw_max": 1.3,
     "prix_eur": 1290,
-    "photo": "",
+    "photo": "https://www.mondoprojos.fr/wp-content/uploads/2025/10/IMG_1235-1024x576.jpeg",
     "test_url": "https://www.mondoprojos.fr/2025/10/04/test-benq-tk705i/"
   },
   {
@@ -479,7 +479,7 @@
     "throw_min": 0.9,
     "throw_max": 1.5,
     "prix_eur": 3299,
-    "photo": "",
+    "photo": "https://www.mondoprojos.fr/wp-content/uploads/2025/08/ae9ea316705abe2ab8856c621c91c92385c467c7-4000x4000-1-1024x1024.png",
     "test_url": "https://www.mondoprojos.fr/2025/09/18/test-valerion-max/"
   },
   {
@@ -495,7 +495,7 @@
     "throw_min": 1.2,
     "throw_max": 1.2,
     "prix_eur": 869,
-    "photo": "",
+    "photo": "https://www.mondoprojos.fr/wp-content/uploads/2025/08/XIAOMI-LASER-3-1024x629.jpg",
     "test_url": "https://www.mondoprojos.fr/2025/08/31/test-xiaomi-laser-projector-3/"
   },
   {
@@ -511,7 +511,7 @@
     "throw_min": 1.2,
     "throw_max": 1.2,
     "prix_eur": 529,
-    "photo": "",
+    "photo": "https://www.mondoprojos.fr/wp-content/uploads/2025/08/IMG_0509-681x1024.jpeg",
     "test_url": "https://www.mondoprojos.fr/2025/08/12/test-xgimi-mogo-4-laser/"
   },
   {
@@ -527,7 +527,7 @@
     "throw_min": 1.2,
     "throw_max": 1.2,
     "prix_eur": 499,
-    "photo": "",
+    "photo": "https://www.mondoprojos.fr/wp-content/uploads/2025/07/IMG_0153-1-768x1024.jpeg",
     "test_url": "https://www.mondoprojos.fr/2025/07/20/test-jmgo-picoplay-mini-projecteur-led-full-hd-nomade-avec-trepied-et-batterie/"
   }
 ]
