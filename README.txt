@@ -1,5 +1,12 @@
-Conseiller Mondoprojos V45 — test avant publication.
-Ancienne version V44 conservée dans SAUVEGARDE_V44.zip.
-Pour restaurer: décompresser cette sauvegarde et remplacer index.html et projecteurs_2026.json sur GitHub.
-V45 : base en cm / diagonale en pouces, pondération cinéma 30/30/18/12/7/3, plages SDR par pièce.
-Les projecteurs trop lumineux au maximum restent visibles dans un groupe distinct : seule une mesure minimale permet de prouver leur incompatibilité.
+Conseiller Mondoprojos V45.1 — mise à jour ciblée du profil Home Cinéma
+
+Installer index.html et projecteurs_2026.json dans le dépôt GitHub.
+
+Pondérations Home Cinéma (ordre contraste, luminosité, fidélité, piqué, fluidité, input lag, prix):
+27, 25, 27, 11, 7, 3, 0 (total 100).
+
+Gaming, Polyvalent et Personnalisé ne sont pas modifiés.
+Les 41 fiches et les mesures sont strictement identiques à la V45.
+
+Retour en arrière : extraire SAUVEGARDE_V45.zip et restaurer index.html et projecteurs_2026.json dans GitHub.
+La sauvegarde V45 contient également la sauvegarde V44.
