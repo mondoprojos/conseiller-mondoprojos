@@ -1,3 +1,5 @@
+Conseiller Mondoprojos V45.3 — filtre de gamme tarifaire uniquement
+
 Conseiller Mondoprojos V45.2 — Ajout XGIMI Titan Noir Pro
 
 42 projecteurs au lieu de 41.
@@ -8,3 +10,7 @@ Titan Noir Pro : SDR ISF Nuit 3442 lm, 1893:1, HDR Filmmaker 3450 lm (dE2000 2,8
 
 Autres 41 fiches conservées à l’identique ; pondérations et algorithmes inchangés.
 Sauvegarde antérieure jointe pour retour arrière.
+
+MODIFICATION V45.3 : suppression du champ « Budget maximal (€) » dans le formulaire, suppression de son plafond dans les calculs et les résultats, conservation de la seule « Gamme tarifaire ». Mentions FR/EN/DE adaptées. 42 projecteurs conservés ; profils et pondérations inchangés.
+
+Pour installer : remplacer index.html et projecteurs_2026.json sur GitHub.
