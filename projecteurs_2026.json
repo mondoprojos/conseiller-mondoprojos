@@ -224,6 +224,34 @@
     "test_url": "https://www.mondoprojos.fr/2026/04/03/test-xgimi-titan-noir-max/"
   },
   {
+    "nom": "XGIMI Titan Noir Pro",
+    "lumens_sdr": 3442,
+    "contraste_natif": 1893,
+    "lumens_hdr": 3450,
+    "contraste_dynamique": null,
+    "deltae_sdr": 1.51,
+    "pique": 4,
+    "fluidite": 2,
+    "input_lag_ms": 17.9,
+    "throw_min": 0.98,
+    "throw_max": 2,
+    "prix_eur": 4499,
+    "photo": "",
+    "test_url": "",
+    "mesure_source_sdr": {
+      "valeur": 397.47,
+      "unite": "cd/m²",
+      "mode": "ISF Nuit, laser 10, F/2.0, sans contraste dynamique"
+    },
+    "mesure_source_hdr": {
+      "valeur": 3450,
+      "unite": "lumens",
+      "mode": "Filmmaker HDR, dE2000 2.8, sortie de boîte"
+    },
+    "conversion_cd_m2": "écran 100 pouces 16:9, gain 1",
+    "notes_donnees": "Input lag 17.9 ms assimilé à celui du Titan Noir Max à la demande du testeur, non mesuré indépendamment. Fluidité 2/5 provisoirement alignée sur le Max. Contraste dynamique non renseigné (mesure non exploitable). Photo et lien de test à compléter après publication."
+  },
+  {
     "nom": "XGIMI M1",
     "lumens_sdr": 418,
     "contraste_natif": 302,
