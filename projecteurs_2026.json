@@ -1,5 +1,21 @@
 [
   {
+    "nom": "XGIMI Horizon 30 Ultra Max",
+    "lumens_sdr": 2661,
+    "contraste_natif": 1397,
+    "lumens_hdr": 2669,
+    "contraste_dynamique": 27546,
+    "deltae_sdr": 1.16,
+    "pique": 2,
+    "fluidite": 4,
+    "input_lag_ms": 13.1,
+    "throw_min": 1.2,
+    "throw_max": 1.5,
+    "prix_eur": 2990,
+    "photo": "https://www.mondoprojos.fr/wp-content/uploads/2026/11/2C18AFB3-C7CB-4306-93A7-3AA7D884CAE0-576x1024.png",
+    "test_url": "https://www.mondoprojos.fr/2026/11/10/test-xgimi-horizon-30-ultra-max/"
+  },
+  {
     "nom": "Hisense C3 Ultra",
     "lumens_sdr": 1854,
     "contraste_natif": 1070,
