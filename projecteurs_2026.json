@@ -1,5 +1,21 @@
 [
   {
+    "nom": "Hisense C3 Ultra Max",
+    "lumens_sdr": 3317,
+    "contraste_natif": 1456,
+    "lumens_hdr": 3667,
+    "contraste_dynamique": 5756,
+    "deltae_sdr": 2.1,
+    "pique": 5,
+    "fluidite": 2,
+    "input_lag_ms": 9.2,
+    "throw_min": 0.85,
+    "throw_max": 1.7,
+    "prix_eur": 3999,
+    "photo": "https://www.mondoprojos.fr/wp-content/uploads/2026/11/Image-ChatGPT-10-nov.-2026-10_55_39-5-768x1024.png",
+    "test_url": null
+  },
+  {
     "nom": "XGIMI Horizon 30 Ultra Max",
     "lumens_sdr": 2661,
     "contraste_natif": 1397,
